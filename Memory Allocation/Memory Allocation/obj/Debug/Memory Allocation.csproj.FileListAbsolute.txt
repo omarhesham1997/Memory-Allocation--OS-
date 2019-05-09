@@ -1,0 +1,42 @@
+c:\users\omar\documents\visual studio 2012\Projects\Memory Allocation\Memory Allocation\bin\Debug\Memory Allocation.exe.config
+c:\users\omar\documents\visual studio 2012\Projects\Memory Allocation\Memory Allocation\obj\Debug\Memory Allocation.csprojResolveAssemblyReference.cache
+c:\users\omar\documents\visual studio 2012\Projects\Memory Allocation\Memory Allocation\obj\Debug\Memory_Allocation.Properties.Resources.resources
+c:\users\omar\documents\visual studio 2012\Projects\Memory Allocation\Memory Allocation\obj\Debug\Memory Allocation.csproj.GenerateResource.Cache
+c:\users\omar\documents\visual studio 2012\Projects\Memory Allocation\Memory Allocation\bin\Debug\Memory Allocation.exe
+c:\users\omar\documents\visual studio 2012\Projects\Memory Allocation\Memory Allocation\bin\Debug\Memory Allocation.pdb
+c:\users\omar\documents\visual studio 2012\Projects\Memory Allocation\Memory Allocation\obj\Debug\Memory Allocation.exe
+c:\users\omar\documents\visual studio 2012\Projects\Memory Allocation\Memory Allocation\obj\Debug\Memory Allocation.pdb
+c:\users\omar\documents\visual studio 2012\Projects\Memory Allocation\Memory Allocation\obj\Debug\Memory_Allocation.frm_number_of_processes.resources
+c:\users\omar\documents\visual studio 2012\Projects\Memory Allocation\Memory Allocation\obj\Debug\Memory_Allocation.Form2.resources
+c:\users\omar\documents\visual studio 2012\Projects\Memory Allocation\Memory Allocation\obj\Debug\Memory_Allocation.Form3.resources
+C:\Users\omar\documents\visual studio 2012\Projects\Memory Allocation\Memory Allocation\obj\Debug\Memory_Allocation.Form4.resources
+C:\Users\omar\documents\visual studio 2012\Projects\Memory Allocation\Memory Allocation\obj\Debug\Memory_Allocation.Form5.resources
+C:\Users\omar\documents\visual studio 2012\Projects\Memory Allocation\Memory Allocation\obj\Debug\Memory_Allocation.Form6.resources
+E:\study\cse2020\OS\memory allocation final version\Memory Allocation\Memory Allocation\bin\Debug\Memory Allocation.exe.config
+E:\study\cse2020\OS\memory allocation final version\Memory Allocation\Memory Allocation\obj\Debug\Memory Allocation.exe
+E:\study\cse2020\OS\memory allocation final version\Memory Allocation\Memory Allocation\obj\Debug\Memory Allocation.pdb
+E:\study\cse2020\OS\memory allocation final version\Memory Allocation\Memory Allocation\bin\Debug\Memory Allocation.exe
+E:\study\cse2020\OS\memory allocation final version\Memory Allocation\Memory Allocation\bin\Debug\Memory Allocation.pdb
+E:\study\cse2020\OS\memory allocation final version\Memory Allocation\Memory Allocation\obj\Debug\Memory Allocation.csprojResolveAssemblyReference.cache
+E:\study\cse2020\OS\memory allocation final version\Memory Allocation\Memory Allocation\obj\Debug\Memory_Allocation.frm_number_of_processes.resources
+E:\study\cse2020\OS\memory allocation final version\Memory Allocation\Memory Allocation\obj\Debug\Memory_Allocation.Form2.resources
+E:\study\cse2020\OS\memory allocation final version\Memory Allocation\Memory Allocation\obj\Debug\Memory_Allocation.Form3.resources
+E:\study\cse2020\OS\memory allocation final version\Memory Allocation\Memory Allocation\obj\Debug\Memory_Allocation.Form4.resources
+E:\study\cse2020\OS\memory allocation final version\Memory Allocation\Memory Allocation\obj\Debug\Memory_Allocation.Form5.resources
+E:\study\cse2020\OS\memory allocation final version\Memory Allocation\Memory Allocation\obj\Debug\Memory_Allocation.Form6.resources
+E:\study\cse2020\OS\memory allocation final version\Memory Allocation\Memory Allocation\obj\Debug\Memory_Allocation.Properties.Resources.resources
+E:\study\cse2020\OS\memory allocation final version\Memory Allocation\Memory Allocation\obj\Debug\Memory Allocation.csproj.GenerateResource.Cache
+C:\Users\omar\Desktop\Memory Allocation\Memory Allocation\bin\Debug\Memory Allocation.exe.config
+C:\Users\omar\Desktop\Memory Allocation\Memory Allocation\obj\Debug\Memory Allocation.exe
+C:\Users\omar\Desktop\Memory Allocation\Memory Allocation\obj\Debug\Memory Allocation.pdb
+C:\Users\omar\Desktop\Memory Allocation\Memory Allocation\bin\Debug\Memory Allocation.exe
+C:\Users\omar\Desktop\Memory Allocation\Memory Allocation\bin\Debug\Memory Allocation.pdb
+C:\Users\omar\Desktop\Memory Allocation\Memory Allocation\obj\Debug\Memory Allocation.csprojResolveAssemblyReference.cache
+C:\Users\omar\Desktop\Memory Allocation\Memory Allocation\obj\Debug\Memory_Allocation.frm_number_of_processes.resources
+C:\Users\omar\Desktop\Memory Allocation\Memory Allocation\obj\Debug\Memory_Allocation.Form2.resources
+C:\Users\omar\Desktop\Memory Allocation\Memory Allocation\obj\Debug\Memory_Allocation.Form3.resources
+C:\Users\omar\Desktop\Memory Allocation\Memory Allocation\obj\Debug\Memory_Allocation.Form4.resources
+C:\Users\omar\Desktop\Memory Allocation\Memory Allocation\obj\Debug\Memory_Allocation.Form5.resources
+C:\Users\omar\Desktop\Memory Allocation\Memory Allocation\obj\Debug\Memory_Allocation.Form6.resources
+C:\Users\omar\Desktop\Memory Allocation\Memory Allocation\obj\Debug\Memory_Allocation.Properties.Resources.resources
+C:\Users\omar\Desktop\Memory Allocation\Memory Allocation\obj\Debug\Memory Allocation.csproj.GenerateResource.Cache
